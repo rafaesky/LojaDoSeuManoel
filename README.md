@@ -14,7 +14,7 @@ Esta API Web automatiza o processo de embalagem de pedidos em uma loja de jogos 
 
 - .NET Core 8
 - C#
-- Docker
+- xUnit
 
 ## Exemplo de Uso
 
